@@ -6,8 +6,8 @@ Following methods are used for reducing the dimensions of dataset.
 2. Incremental PCA
 3. Randomized PCA
 4. Kernel PCA
-      KNeighborsClassifier
-      Pipeline
-      Grid Search
-      Classification report
+      4.1. KNeighborsClassifier
+      4.2. Pipeline
+      4.3. Grid Search
+      4.4. Classification report
   
